@@ -3,3 +3,5 @@ i am currently learning
 :-html(completed)
 :-css(intemideate level proficiency)
 :-javascript(will learn)
+
+:-learning backend after frontend
